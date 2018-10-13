@@ -140,7 +140,7 @@ h6{
 /* 2-2. GOOGLE FONTS     	 */
 /*---------------------------*/	
 h1, h2, h3, h4, h5, h6, ul#main_menu li a, .title_front, .title_date, .title_under, span.countdown_amount, .rsvp_button{
-	font-family:"Times New Roman", Times, serif
+	font-family: 'Open Sans', sans-serif;
 }
 .title, .countdown_section, .about_topsign{
 	font-family: 'Clicker Script', cursive;
@@ -318,7 +318,6 @@ ul#main_menu ul li a:hover {
 	left:0px;
 	width:100%;
 }
-
 .title{
 	font-size:120px;
 	color:#FFFFFF;
@@ -459,12 +458,12 @@ span.swirl_right{
 .countdown_container{
 	width:100%;
 	height:auto;
-	padding: 10px 0 2px 0;
+	padding:20px 0 20px 0;
 }
 .countdown_container h2{
 	text-align:center;
 	color:#FFFFFF;
-	padding: 10px 0 0 0;
+	padding:60px 0 0 0;
 	font-size:26px;
 }
 .hasCountdown{
@@ -716,18 +715,18 @@ span.carousel_titles{
 .home_bottom{
 	width:100%;
 	background-color:#f6f5ec;
-	padding: 10px 0 0px 0;
+	padding:60px 0 0px 0;
 	text-align:center;
 }
 .home_bottom h2{
 	text-align:center;
 	font-size:24px;
 	font-weight:800;
-	padding: 1px 0 0 0;
+	padding:40px 0 0 0;
 	margin:0 0 10px 0;
 }
 .home_bottom p{
-	padding-bottom: 4px;
+	padding-bottom:40px;
 	text-align:center;
 }
 span.subtitle{
@@ -737,7 +736,7 @@ span.subtitle{
 	font-size:14px;
 	font-weight:700;
 	letter-spacing:-1px;
-	padding: 0 0 0px 0;
+	padding:0 0 40px 0;
 }
 .bottom_icon{
 	background:url(images/bottom_icons_frame.png) no-repeat center;
@@ -1394,7 +1393,7 @@ span.swirl_right_transparent{
 	{
 	width:94%;
 	margin:auto 3%;
-	padding: 1px 0;
+	padding:20px 0
 	}
 	.full_width_carousel
 	{
@@ -1946,4 +1945,3 @@ span.swirl_right_transparent{
 	font-size:12px
 	}
 }
-
